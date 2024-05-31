@@ -918,7 +918,7 @@ html,body{
     }
 }
 
-@media (max-width: 432px) {
+/* @media (max-width: 432px) {
     #header {
         height: auto;
         display: flex;
@@ -1096,5 +1096,5 @@ html,body{
 
     #main #chat{
         left: 21.4rem;
-    }
+    } */
 }
