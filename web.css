@@ -918,7 +918,7 @@ html,body{
     } 
 }
 
-@media (min-width: 432px) {
+@media (max-width: 432px) {
     #header {
         height: auto;
         display: flex;
