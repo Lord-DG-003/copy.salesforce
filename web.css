@@ -537,7 +537,7 @@ html,body{
     display: none;
 }
 
-/* @media (max-width:768px) {
+/*  @media (max-width:768px) {
 
     #header{        
         height: auto;
@@ -915,10 +915,10 @@ html,body{
     #MENU.active{
         width: 100%;
         left: 0;
-    } */
-}
+    } 
+} */
 
-@media (max-width: 432px) {
+@media (min-width: 432px) {
     #header {
         height: auto;
         display: flex;
