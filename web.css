@@ -537,7 +537,7 @@ html,body{
     display: none;
 }
 
-/*  @media (max-width:768px) {
+ @media (max-width:768px) {
 
     #header{        
         height: auto;
@@ -916,7 +916,7 @@ html,body{
         width: 100%;
         left: 0;
     } 
-} */
+}
 
 @media (min-width: 432px) {
     #header {
